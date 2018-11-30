@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="mahm-common" />
+        <module name="mahm-core" />
+        <module name="mahm-web" />
+        <module name="mams-common" />
+        <module name="mams-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="mahm" target="1.8" />
+      <module name="mahm-common" target="1.8" />
+      <module name="mahm-core" target="1.8" />
+      <module name="mahm-web" target="1.8" />
+      <module name="mams-common" target="1.8" />
+      <module name="mams-web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

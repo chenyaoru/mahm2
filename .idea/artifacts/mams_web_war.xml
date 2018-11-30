@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="mams-web:war">
+    <output-path>$PROJECT_DIR$/mams-web/target</output-path>
+    <root id="archive" name="mams.war">
+      <element id="artifact" artifact-name="mams-web:war exploded" />
+    </root>
+  </artifact>
+</component>

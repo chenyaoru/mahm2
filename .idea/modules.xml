@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mahm.iml" filepath="$PROJECT_DIR$/mahm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mahm-common/mahm-common.iml" filepath="$PROJECT_DIR$/mahm-common/mahm-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mahm-core/mahm-core.iml" filepath="$PROJECT_DIR$/mahm-core/mahm-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mahm-web/mahm-web.iml" filepath="$PROJECT_DIR$/mahm-web/mahm-web.iml" />
+    </modules>
+  </component>
+</project>

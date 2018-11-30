@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="mahm-web:war">
+    <output-path>$PROJECT_DIR$/mahm-web/target</output-path>
+    <root id="archive" name="mahm.war">
+      <element id="artifact" artifact-name="mahm-web:war exploded" />
+    </root>
+  </artifact>
+</component>
